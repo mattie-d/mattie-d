@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Matt
-- 👀 I’m interested in computers and strength training
-- 🌱 I’m currently learning Python and Russian
-<!-- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+- 🌱 I’m currently learning Python, JS, and Russian
+- 🌿 BSc in environmental science
+- 💪🏻 I love to exercise
