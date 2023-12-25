@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Matt
-- 🌱 I’m currently learning Python, JS, and Russian
-- 🌿 BSc in environmental science
-- 💪🏻 I love to exercise
+Currently learning:
+- Python
+- JavaScript
+- Russian
